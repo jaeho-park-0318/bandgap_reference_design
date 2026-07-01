@@ -1,0 +1,10 @@
+* text=auto
+
+.gitattributes text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.PNG binary
+*.docx binary
+*.pptx binary
